@@ -1,5 +1,4 @@
-{
-  "name": "AFK Bot",
+name": "AFK Bot",
   "bot-account": {
     "username": "DbgamingLive",
     "password": "",
@@ -7,8 +6,8 @@
   },
   "server": {
     "ip": "McAlok-K641.aternos.me",
-    port28302,
-    "version": "1.21.1"
+    "port": 28302,
+    "version": "26.2"
   },
   "position": {
     "enabled": true,
@@ -87,5 +86,4 @@
   },
   "chat": {
     "respond": true
-  }
-}
+    }
