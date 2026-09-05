@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 25565,
+    "ip": "lifeschoolMC.aternos.me:18830",
+    "port":18830
     "version": "1.21.1"
   },
   "position": {
